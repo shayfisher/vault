@@ -1,0 +1,1 @@
+secrets/transit: Add support for SHA-3 in the Transit backend.
